@@ -22,5 +22,10 @@
     "eslint-plugin-jsdoc": "^56.1.2",
     "prettier": "^3.6.2",
     "wrangler": "4.47.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "undici": "7.29.1"
+    }
   }
 }
